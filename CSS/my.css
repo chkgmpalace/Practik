@@ -1,0 +1,16 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+}
+.wrapper{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
+.photo-main{
+    width: 996px;
+    height: 852px;
+}
